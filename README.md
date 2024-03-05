@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elian Rodrigues</h1>
-<h3 align="center">A Data Engineer Enthusiast from Brazil</h3>
+<h3 align="center">A Data Engineering Enthusiast from Brazil</h3>
 
 - 🌱 I’m currently improving at **Spark, Clouds in general, Advanced SQL**
 
