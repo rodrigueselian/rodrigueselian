@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Elian Rodrigues</h1>
-<h3 align="center">A passionate Data Engineer from Brazil</h3>
+<h3 align="center">A Data Engineer Enthusiast from Brazil</h3>
 
-- 👨‍💻 All of my projects are available at [here in github](here in github)
+- 🌱 I’m currently improving at **Spark, Clouds in general, Advanced SQL**
+
+- 🤝 I’m looking for **an opportunity to grow in the area and learn about the market**
+
+- 👨‍💻 All of my projects are available at [https://github.com/rodrigueselian?tab=repositories](https://github.com/rodrigueselian?tab=repositories)
+
+- 💬 Ask me about **SQL, Python, Spark, AWS, Airflow**
+
+- 📫 How to reach me **rodrigues.elian@yahoo.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/elian-rodrigues-108346143/](https://www.linkedin.com/in/elian-rodrigues-108346143/)
+
+- ⚡ Fun fact **i passed a process to be a data engineer, but i couldn't take it because i was 1 semester away from my graduation, when i graduated there were no more job vacancies at the company :')**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
