@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Elian Rodrigues</h1>
 <h3 align="center">A Data Engineering Enthusiast from Brazil</h3>
 
-- 🌱 I’m currently improving at **Spark, Clouds in general, Advanced SQL**
+- 🌱 I’m currently improving at **Spark, GCP, Advanced SQL and Business Inteligence**, i'am 3x GCP Certified, [CDL](https://www.credly.com/badges/6aa45558-227c-4a5b-996e-3910d8712004) [ACE](https://www.credly.com/badges/b3804bab-ec61-4e06-ac78-8776fc40a684) [PDE](https://www.credly.com/badges/c2f3e7d7-cb07-4b9e-bed7-408048650ee4)
 
-- 🤝 I’m looking for **an opportunity to grow in the area and learn about the market**
+- 🤝 I’m looking for **an opportunity to grow in the area and learn more about the market**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rodrigueselian?tab=repositories](https://github.com/rodrigueselian?tab=repositories)
 
-- 💬 Ask me about **SQL, Python, Spark, AWS, Airflow**
+- 💬 Ask me about **SQL, Python, Spark, GCP, Airflow**
 
 - 📫 How to reach me **rodrigues.elian@yahoo.com**
 
